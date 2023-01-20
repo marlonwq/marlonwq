@@ -23,7 +23,7 @@
   
   ![](https://github-profile-trophy.vercel.app/?username=marlonc0dex&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  
-  
+  ![snake gif](https://github.com/marlonc0dex/marlonc0dex/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
