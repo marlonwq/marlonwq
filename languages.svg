@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 60.70501%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 37.11515%;" class="progress-item"></span><span style="background-color: #178600;width: 1.27868%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.84854%;" class="progress-item"></span><span style="background-color: #555555;width: 0.05263%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 60.75390%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 37.14503%;" class="progress-item"></span><span style="background-color: #178600;width: 1.27971%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.76870%;" class="progress-item"></span><span style="background-color: #555555;width: 0.05267%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         Python
                     </span>
                     <span class="percent">
-                        60.705%
+                        60.754%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -174,7 +174,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        37.115%
+                        37.145%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -193,7 +193,7 @@ div.ellipsis {
                         C#
                     </span>
                     <span class="percent">
-                        1.279%
+                        1.280%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -212,7 +212,7 @@ div.ellipsis {
                         C++
                     </span>
                     <span class="percent">
-                        0.849%
+                        0.769%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
