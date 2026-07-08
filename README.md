@@ -1,7 +1,7 @@
 <div align="center">
   <samp>
     <a href="https://discord.com/users/782746642574344205">discord</a> ·
-    <a href="mailto:git@marlonwq.tech">email</a>
+    <a href="mailto:marrlonwq@gmail.com">email</a>
   </samp>
 </div>
 
